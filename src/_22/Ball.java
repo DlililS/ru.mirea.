@@ -1,4 +1,4 @@
-package _2;
+package _22;
 
 public class Ball {
     private double x = 0.0;
@@ -32,6 +32,6 @@ public class Ball {
         this.y+=b;
     }
     public String toString() {
-        return "Ball{" + "x" + x + "y" + y + "}";
+        return "Ball{" + "x = " + x + ", y = " + y + "}";
     }
 }
