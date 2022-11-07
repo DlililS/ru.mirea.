@@ -1,4 +1,4 @@
-package _2;
+package _2_3;
 
 
 public class Point {

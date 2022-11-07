@@ -1,4 +1,4 @@
-package _21;
+package _2_1;
 import java.lang.*;
 public class Author {
     private final String name;

@@ -1,6 +1,4 @@
-package _22;
-
-import _22.Ball;
+package _2_2;
 
 public class TestBall {
     public static void main(String[] args) {

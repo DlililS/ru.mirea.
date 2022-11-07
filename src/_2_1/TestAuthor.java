@@ -1,6 +1,4 @@
-package _21;
-
-import _21.Author;
+package _2_1;
 
 import java.util.Scanner;
 public class TestAuthor {

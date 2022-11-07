@@ -1,6 +1,4 @@
-package _25;
-
-import _24.Computer;
+package _2_5;
 
 import java.util.Scanner;
 
@@ -13,7 +11,7 @@ public class Tester {
         Dog humanage = new Dog(name, n);
         PitomnicDog pitomnic = new PitomnicDog(id, name);
 
-        System.out.println(pitomnic.find(id, name));
+      /*  System.out.println(pitomnic.find(id, name));
         System.out.println(humanage.humandogage(n));
         //pitomnic.getList();
         pitomnic.put(n, name);
@@ -48,5 +46,7 @@ public class Tester {
                 i = "";
             }
         }
+
+       */
     }
 }

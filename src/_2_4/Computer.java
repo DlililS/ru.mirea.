@@ -1,4 +1,4 @@
-package _24;
+package _2_4;
 
 public class Computer {
     String model;

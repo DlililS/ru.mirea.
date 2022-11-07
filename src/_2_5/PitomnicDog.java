@@ -1,4 +1,4 @@
-package _25;
+package _2_5;
 
 import java.util.*;
 
@@ -17,7 +17,7 @@ public class PitomnicDog {
         this.id = id;
         this.name = name;
     }
-    Map<Integer, String> map = new HashMap<>();
+   // Map<Integer, String> map = new HashMap<>();
 
    /* public ArrayList<String> getList() {
         return list;
@@ -40,7 +40,7 @@ public class PitomnicDog {
         list.add(id);
     }*/
 
-    public Map<Double, String> getMap() {
+  /*  public Map<Double, String> getMap() {
         return map;
     }
     public boolean find(Integer id, String name) {
@@ -63,6 +63,6 @@ public class PitomnicDog {
         map1.put(123,"jjjh");
     }
 
-
+*/
 }
 

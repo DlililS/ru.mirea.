@@ -1,4 +1,4 @@
-package _25;
+package _2_5;
 
 public class Dog {
     private String name;
