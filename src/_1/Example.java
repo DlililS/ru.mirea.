@@ -3,14 +3,14 @@ import java.util.Scanner;
 public class Example {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int array[];
         int n = sc.nextInt();
-        array = new int[n];
-        int a = 0;
-        for(int i = 0; i < n; i++){
-                a+=array[i];
-            }
-        System.out.println(a);
-        System.out.println(a/n);
+        int[] b = new int[n];
+        int a=0;
+        for(int i=0; i < n; i++){
+            b[i] = sc.nextInt();
+            a+=b[i];
+        }
+        double sr = 0.1*a/n*10;
+        System.out.print(a+"  "+sr);
     }
 }
